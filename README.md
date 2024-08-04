@@ -1,9 +1,8 @@
-## 💫 About Me
-I'm a highly motivated and determined team player with a strong enthusiasm for programming and deeply interest in AI/ML.<br>I bring over 7 years of industry experience and 3 years of business ownership and management.<br><br>🔭 I’m currently working on Agentic Workflows<br>👯 I’m looking to collaborate on Python/Rust projects<br>🤝 I’m looking for help with ML/AI<br>🌱 I’m currently learning Rust and ML<br>💬 Ask me about anything 😄<br>⚡ Fun fact: I know a bit about BeatBoxing 
+ # _Living programming and loving its challenges_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardommelgaco) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@eduardochiarotti) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/python_byte) 
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Programming Languages**<br><br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -54,6 +53,3 @@ I'm a highly motivated and determined team player with a strong enthusiasm for p
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### Buy Me A Coffe
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pythonbyte) 
